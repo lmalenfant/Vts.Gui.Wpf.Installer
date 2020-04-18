@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Vts.Gui.Wpf.Installer", "Vts.Gui.Wpf.Installer.vdproj", "{3BFDFC47-37F6-4A98-8E29-8A154F1E27CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BFDFC47-37F6-4A98-8E29-8A154F1E27CE}.Debug|Default.ActiveCfg = Debug
+		{3BFDFC47-37F6-4A98-8E29-8A154F1E27CE}.Debug|Default.Build.0 = Debug
+		{3BFDFC47-37F6-4A98-8E29-8A154F1E27CE}.Release|Default.ActiveCfg = Release
+		{3BFDFC47-37F6-4A98-8E29-8A154F1E27CE}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4ABF6DA-BC34-48DC-B569-37CC1D73758A}
+	EndGlobalSection
+EndGlobal
