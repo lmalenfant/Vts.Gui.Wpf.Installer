@@ -204,15 +204,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Vts.Gui.Wpf"
-        "ProductCode" = "8:{26C3E735-E69F-46BE-81A3-146A0A5A39D1}"
-        "PackageCode" = "8:{1F85D552-EE06-4CE4-9D2A-5F0989B7A0B3}"
+        "ProductCode" = "8:{12B92B78-02FD-4D55-8373-FA2337064F28}"
+        "PackageCode" = "8:{5ED1D832-796B-4918-84D1-84579443D080}"
         "UpgradeCode" = "8:{7AE98B51-7AAE-4717-A0B3-03916F0342DA}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:4.4"
+        "ProductVersion" = "8:5.0"
         "Manufacturer" = "8:Virtual Photonics"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -754,7 +754,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_863A7B0BE8B44D9C9D681F14CCAE4461"
             {
-            "SourcePath" = "8:..\\Vts.Gui.Wpf\\Vts.Gui.Wpf\\obj\\WhiteList\\net6.0-windows8.0\\apphost.exe"
+            "SourcePath" = "8:..\\Vts.Gui.Wpf\\Vts.Gui.Wpf\\obj\\WhiteList\\net8.0-windows\\apphost.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_3E2CB62A968A4C5D92611176E57A279B"
